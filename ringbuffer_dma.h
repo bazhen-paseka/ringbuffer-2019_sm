@@ -2,7 +2,6 @@
 #define RINGBUFFER_DMA_H_INCLUDED
 
 #include <stdint.h>
-//#include "stm32f4xx_hal.h"
 #include "main.h"
 
 typedef struct
